@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J12 Old Footprint=KF2-3.5 New Footprint=KF2-5.08
+Change Component Footprint: Designator=J13 Old Footprint=KF2-3.5 New Footprint=KF2-5.08
+Change Component Footprint: Designator=J15 Old Footprint=KF2-3.5 New Footprint=KF2-5.08
+Change Component Footprint: Designator=J16 Old Footprint=KF2-3.5 New Footprint=KF2-5.08
+Added Room: Name=Schematic

@@ -1,0 +1,33 @@
+Added Component: Designator=LED?(LED-3MM-YELLOW)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-1/2W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+3V3 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-3
+Change Net Name : Old Net Name=NetC1_2 New Net Name=12GND
+Change Net Name : Old Net Name=NetF1_1 New Net Name=+12V
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Net: Name=NetLED?_1
+Added Member To Class: ClassName=Schematic Member=Component LED? LED
+Added Member To Class: ClassName=Schematic Member=Component R? Res
+Added Room: Name=Schematic

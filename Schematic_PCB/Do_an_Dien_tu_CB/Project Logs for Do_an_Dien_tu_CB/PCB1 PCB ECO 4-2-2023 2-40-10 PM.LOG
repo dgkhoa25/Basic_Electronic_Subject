@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PB12 Pin=U3-1
+Removed Pin From Net: NetName=PB13 Pin=U3-2
+Removed Pin From Net: NetName=PB10 Pin=U3-35
+Removed Pin From Net: NetName=PB11 Pin=U3-36
+Added Pin To Net: NetName=PB13 Pin=U3-1
+Added Pin To Net: NetName=PB10 Pin=U3-2
+Added Pin To Net: NetName=PB11 Pin=U3-35
+Added Pin To Net: NetName=PB12 Pin=U3-36
+Change Net Name : Old Net Name=PB10 New Net Name=PB13
+Change Net Name : Old Net Name=PB11 New Net Name=PB10
+Change Net Name : Old Net Name=PB12 New Net Name=PB11
+Change Net Name : Old Net Name=PB13 New Net Name=PB12
+Added Member To Class: ClassName=Schematic Member=Component J2 KF3
+Added Member To Class: ClassName=Schematic Member=Component J6 KF3
+Added Member To Class: ClassName=Schematic Member=Component J8 KF3
+Added Member To Class: ClassName=Schematic Member=Component J10 KF3
+Added Member To Class: ClassName=Schematic Member=Component J11 KF3
+Added Member To Class: ClassName=Schematic Member=Component J12 KF2
+Added Member To Class: ClassName=Schematic Member=Component J13 KF2
+Added Room: Name=Schematic

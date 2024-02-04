@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+3V3 Pin=J16-1
+Added Member To Class: ClassName=Schematic Member=Component J16 KF2
+Added Member To Class: ClassName=Schematic Member=Component J17 KF2
+Added Member To Class: ClassName=Schematic Member=Component J18 KF2
+Added Room: Name=Schematic

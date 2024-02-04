@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PB9 Pin=U3-17
+Added Pin To Net: NetName=PB9 Pin=U3-2
+Change Net Name : Old Net Name=PB9 New Net Name=PB13
+Added Member To Class: ClassName=Schematic Member=Component R1 Res
+Added Member To Class: ClassName=Schematic Member=Component R3 Res
+Added Room: Name=Schematic

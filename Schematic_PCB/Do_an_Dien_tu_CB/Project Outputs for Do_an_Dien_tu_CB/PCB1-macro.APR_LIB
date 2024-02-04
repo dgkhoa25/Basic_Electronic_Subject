@@ -1,0 +1,13 @@
+G04:AMPARAMS|DCode=19|XSize=2.3mm|YSize=1.7mm|CornerRadius=0.425mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=0.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD19*
+21,1,2.3000,0.8500,0,0,0.0*
+21,1,1.4500,1.7000,0,0,0.0*
+1,1,0.8500,0.7250,-0.4250*
+1,1,0.8500,-0.7250,-0.4250*
+1,1,0.8500,-0.7250,0.4250*
+1,1,0.8500,0.7250,0.4250*
+%
+G04:AMPARAMS|DCode=22|XSize=1.8mm|YSize=1.8mm|CornerRadius=0mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=180.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=Octagon|*
+%AMOCTAGOND22*
+4,1,8,-0.9000,0.4500,-0.9000,-0.4500,-0.4500,-0.9000,0.4500,-0.9000,0.9000,-0.4500,0.9000,0.4500,0.4500,0.9000,-0.4500,0.9000,-0.9000,0.4500,0.0*
+%
